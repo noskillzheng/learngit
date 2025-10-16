@@ -1,0 +1,4 @@
+/home/zheng/Alli/week1/oop_try2/build/CMakeFiles/oop_try2.dir
+/home/zheng/Alli/week1/oop_try2/build/CMakeFiles/TOOLS_STATIC.dir
+/home/zheng/Alli/week1/oop_try2/build/CMakeFiles/edit_cache.dir
+/home/zheng/Alli/week1/oop_try2/build/CMakeFiles/rebuild_cache.dir

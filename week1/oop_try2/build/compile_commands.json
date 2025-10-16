@@ -1,0 +1,14 @@
+[
+{
+  "directory": "/home/zheng/Alli/week1/oop_try2/build",
+  "command": "/usr/bin/c++  -I/home/zheng/Alli/week1/oop_try2/include  -o CMakeFiles/TOOLS_STATIC.dir/src/vehicle.cpp.o -c /home/zheng/Alli/week1/oop_try2/src/vehicle.cpp",
+  "file": "/home/zheng/Alli/week1/oop_try2/src/vehicle.cpp",
+  "output": "CMakeFiles/TOOLS_STATIC.dir/src/vehicle.cpp.o"
+},
+{
+  "directory": "/home/zheng/Alli/week1/oop_try2/build",
+  "command": "/usr/bin/c++  -I/home/zheng/Alli/week1/oop_try2/include  -o CMakeFiles/oop_try2.dir/src/main.cpp.o -c /home/zheng/Alli/week1/oop_try2/src/main.cpp",
+  "file": "/home/zheng/Alli/week1/oop_try2/src/main.cpp",
+  "output": "CMakeFiles/oop_try2.dir/src/main.cpp.o"
+}
+]

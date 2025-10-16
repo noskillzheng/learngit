@@ -1,0 +1,1 @@
+/usr/bin/c++ CMakeFiles/oop_try2.dir/src/main.cpp.o -o oop_try2  libTOOLS_STATIC.a 
