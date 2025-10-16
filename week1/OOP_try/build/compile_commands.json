@@ -1,0 +1,8 @@
+[
+{
+  "directory": "/home/zheng/Alli/week1/OOP_try/build",
+  "command": "/usr/bin/c++  -I/home/zheng/Alli/week1/OOP_try/include  -o CMakeFiles/OOP_vehicle.dir/src/main.cpp.o -c /home/zheng/Alli/week1/OOP_try/src/main.cpp",
+  "file": "/home/zheng/Alli/week1/OOP_try/src/main.cpp",
+  "output": "CMakeFiles/OOP_vehicle.dir/src/main.cpp.o"
+}
+]

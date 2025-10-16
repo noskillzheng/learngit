@@ -1,0 +1,3 @@
+/home/zheng/Alli/week1/OOP_try/build/CMakeFiles/OOP_vehicle.dir
+/home/zheng/Alli/week1/OOP_try/build/CMakeFiles/edit_cache.dir
+/home/zheng/Alli/week1/OOP_try/build/CMakeFiles/rebuild_cache.dir
